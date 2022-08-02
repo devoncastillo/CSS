@@ -1,0 +1,9 @@
+/* Assignment: Use your knowledge of CSS visual rules to create rule sets and
+improve the appearance of a photography portfolio site*/
+
+/*Select the header class and make its background color 'CornflowerBlue'*/
+/*Align the header class text in the center*/
+.header {
+    background-color: cornflowerblue;
+    text-align: center;
+}
