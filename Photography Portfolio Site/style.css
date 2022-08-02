@@ -1,4 +1,4 @@
-/* Assignment: Use your knowledge of CSS visual rules to create rule sets and
+/*Assignment: Use your knowledge of CSS visual rules to create rule sets and
 improve the appearance of a photography portfolio site*/
 
 /*Select the header class and make its background color 'CornflowerBlue'*/
@@ -6,4 +6,12 @@ improve the appearance of a photography portfolio site*/
 .header {
     background-color: cornflowerblue;
     text-align: center;
+}
+
+/*Select the .about-me element and change the font size to 20px;
+Make the text of the .about-me element 50% transparent*/
+
+.about-me {
+    font-size: 20px;
+    opacity: 0.5;
 }
