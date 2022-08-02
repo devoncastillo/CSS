@@ -15,3 +15,9 @@ Make the text of the .about-me element 50% transparent*/
     font-size: 20px;
     opacity: 0.5;
 }
+
+/*In the Projects section, make the section titles bold*/
+
+.title {
+    font-weight: bold;
+}
