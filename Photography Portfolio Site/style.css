@@ -5,7 +5,9 @@ improve the appearance of a photography portfolio site*/
 Align the header class text in the center*/
 
 .header {
-    background-color: cornflowerblue;
+    /*background-color: cornflowerblue;*/
+    /*background-color updated to rgba as part of extra credit */
+    background-color: rgba(100, 149, 237, 0.5);
     text-align: center;
 }
 
@@ -37,3 +39,25 @@ body {
     font-family: 'Georgia';
 }
 
+/*Extra credit: Keep coding and edit the visual rules
+to personalize the site's appearance*/
+
+.header img {
+    margin-top: 30px;
+}
+
+.header p {
+    padding: 0px 25px 25px;
+}
+
+main {
+    margin-left: 25px;
+}
+
+.contact a {
+    color: cornflowerblue;
+}
+
+.contact a:hover {
+    color: yellowgreen;
+}
