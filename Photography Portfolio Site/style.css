@@ -21,3 +21,9 @@ Make the text of the .about-me element 50% transparent*/
 .title {
     font-weight: bold;
 }
+
+/*Change the main title (h1) color to 'Azure'*/
+
+h1 {
+    color: azure;
+}
