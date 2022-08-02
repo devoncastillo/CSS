@@ -30,7 +30,10 @@ h1 {
 }
 
 /*Use the body element to change the font of the entire page to 'Georgia'*/
+/*Add an image to the background of the page*/
 
 body {
+    background-image: url("https://content.codecademy.com/courses/learn-css-selectors-visual-rules/hypnotize_bg.png");
     font-family: 'Georgia';
 }
+
