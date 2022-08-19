@@ -1,0 +1,1 @@
+This is an off-platform Codecademy project, with the object of building a simple website from the ground up, to match the content, layout, and styling provided in the [design spec](./dasmotos-arts_redline_design_spec.jpg).
