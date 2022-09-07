@@ -1,0 +1,21 @@
+a {
+    color: #2176FF;
+    transition: all 0.2s ease-in-out 0s;
+  }
+  
+  a:visited {
+    color: #b121ff;
+  }
+  
+  a:hover {
+    font-weight: bolder;
+  }
+  
+  a:active {
+    color: #486ba2;
+  }
+  
+  p a:hover {
+      font-weight: normal;
+      text-decoration: underline;
+  }
