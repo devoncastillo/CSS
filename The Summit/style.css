@@ -1,6 +1,7 @@
 a {
     color: #2176FF;
     transition: all 0.2s ease-in-out 0s;
+    cursor: pointer;
   }
   
   a:visited {
@@ -76,4 +77,17 @@ a {
 
   .btn:visited {
     color: #736B92;
+  }
+
+  .activity {
+    box-shadow: rgba(115, 107, 146, 0.5) 2px 3px;
+  }
+
+  .activity:hover {
+    background-color: #619cfb;
+  }
+
+  .activity:active {
+    color: #486ba2;
+    box-shadow: inset rgba(115, 107, 146, 0.5) 2px 3px;
   }
